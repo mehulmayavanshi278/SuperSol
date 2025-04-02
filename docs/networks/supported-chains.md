@@ -6,7 +6,7 @@ sidebar_position: 1
 
 # Supported Chains
 
-Router Protocol currently supports the following blockchains for cross-chain transactions and messaging.
+SuperSol currently supports the following blockchains for cross-chain transactions and messaging.
 
 ## EVM Chains
 
@@ -47,11 +47,11 @@ Router Protocol currently supports the following blockchains for cross-chain tra
 
 ## Integration Requirements
 
-If you're interested in integrating your blockchain with Router Protocol, please ensure your blockchain meets the following requirements:
+If you're interested in integrating your blockchain with SuperSol, please ensure your blockchain meets the following requirements:
 
 1. **Stable Mainnet**: Your blockchain should have a stable mainnet that has been running for at least 3 months.
 2. **Documentation**: Comprehensive documentation for developers.
 3. **Development Support**: Active developer community and support channels.
 4. **Security**: Robust security measures and audited codebase.
 
-For more information on how to integrate your blockchain with Router Protocol, please [contact our team](https://discord.gg/routerprotocol).
+For more information on how to integrate your blockchain with SuperSol, please [contact our team](https://discord.gg/routerprotocol).

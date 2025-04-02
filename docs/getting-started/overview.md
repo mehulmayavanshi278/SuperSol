@@ -4,17 +4,17 @@ title: Overview
 sidebar_position: 1
 ---
 
-# Getting Started with Router Protocol
+# Getting Started with SuperSol
 
-Welcome to Router Protocol! This guide will help you understand how to get started with our cross-chain infrastructure.
+Welcome to SuperSol! This guide will help you understand how to get started with our cross-chain infrastructure.
 
 ## Overview
 
-Router Protocol is a blockchain infrastructure that enables cross-chain communication. It is designed to bridge the gap between various blockchains, allowing for seamless transfer of assets and information.
+SuperSol is a blockchain infrastructure that enables cross-chain communication. It is designed to bridge the gap between various blockchains, allowing for seamless transfer of assets and information.
 
 ## Use Cases
 
-Here are some common use cases for Router Protocol:
+Here are some common use cases for SuperSol:
 
 - **Cross-Chain Token Transfers**: Transfer tokens across different blockchains.
 - **Cross-Chain dApps**: Build decentralized applications that work across multiple blockchains.
@@ -23,7 +23,7 @@ Here are some common use cases for Router Protocol:
 
 ## Components
 
-Router Protocol consists of several components:
+SuperSol consists of several components:
 
 ### Voyager
 
@@ -39,7 +39,7 @@ PathFinder is an API service that finds the most optimal routes for cross-chain 
 
 ## Next Steps
 
-Now that you have an overview of Router Protocol, you can:
+Now that you have an overview of SuperSol, you can:
 
 - Learn more about [CrossTalk](/docs/getting-started/cross-talk)
 - Explore how to build [Cross-Chain Apps](/docs/getting-started/cross-chain-apps)

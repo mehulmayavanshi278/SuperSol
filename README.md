@@ -1,6 +1,6 @@
-# Router Protocol Documentation
+# SuperSol Documentation
 
-This repository contains the documentation website for Router Protocol built with [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+This repository contains the documentation website for SuperSol built with [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 
 ## Getting Started
 
@@ -97,7 +97,7 @@ router-docs/
 
 ### Changing the Theme
 
-You can modify the theme colors in `src/css/custom.css`. The default color scheme is set to match Router Protocol's branding, but you can adjust it to your preferences.
+You can modify the theme colors in `src/css/custom.css`. The default color scheme is set to match SuperSol's branding, but you can adjust it to your preferences.
 
 ### Adding Content
 

@@ -56,7 +56,7 @@ const config: Config = {
   ],
 
   themeConfig: {
-    // Add Router Protocol colors here
+    // Add SuperSol colors here
     colorMode: {
       defaultMode: 'light',
       disableSwitch: false,
@@ -65,7 +65,7 @@ const config: Config = {
     navbar: {
       title: 'SuperSol',
       logo: {
-        alt: 'Router Protocol Logo',
+        alt: 'SuperSol Logo',
         src: 'img/logo.svg',
       },
       items: [
@@ -147,7 +147,7 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} Router Protocol. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} SuperSol. Built with Docusaurus.`,
     },
     prism: {
       theme: prismThemes.github,

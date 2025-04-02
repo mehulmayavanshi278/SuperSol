@@ -69,6 +69,7 @@ const sidebars: SidebarsConfig = {
     {
       type:'category',
       label:'Quick Start',
+      collapsed:true,
       items:[
         {
           type:'doc',
@@ -125,7 +126,7 @@ const sidebars: SidebarsConfig = {
       type:'category',
       label:'Environment Setup',
       collapsible: true,
-      collapsed: false,
+      collapsed: true,
       link: { type: "doc", id: "developers/required-environments" },
       items:[
         {
@@ -169,7 +170,7 @@ const sidebars: SidebarsConfig = {
       type:'category',
       label:'Examples',
       collapsible: true,
-      collapsed: false,
+      collapsed: true,
       link: { type: "doc", id: "developers/create-new-project" },
       items:[
         {
@@ -225,7 +226,7 @@ const sidebars: SidebarsConfig = {
       type:'category',
       label:"HTTP Methods",
       collapsible: true,
-      collapsed: false,
+      collapsed: true,
       link: { type: "doc", id: "rpc/required-environments" },
       items:[
         {
@@ -441,7 +442,7 @@ const sidebars: SidebarsConfig = {
   resourcesSidebar:[
     {
       type:'html',
-      value: '<div style="margin-top: 40px;margin-left:10px">Resources</div>',
+      value: '<div style="margin-top: 20px;margin-left:10px">Resources</div>',
     },
     {
       type:'doc',
@@ -457,7 +458,7 @@ const sidebars: SidebarsConfig = {
   svmBNBSidebar:[
     {
       type:'html',
-      value: '<div style="margin-top: 40px;margin-left:10px">Resources</div>',
+      value: '<div style="margin-top: 20px;margin-left:10px">svmBNB</div>',
     },
     {
       type:'doc',

@@ -37,7 +37,7 @@ export default function Home(): JSX.Element {
   return (
     <Layout
       title={`${siteConfig.title}`}
-      description="Documentation for Router Protocol - Cross-Chain Infrastructure">
+      description="Documentation for SuperSol - Cross-Chain Infrastructure">
       <HomepageHeader />
       <main>
         <div className="container margin-top--xl margin-bottom--xl">
