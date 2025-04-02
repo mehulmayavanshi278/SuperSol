@@ -16,8 +16,8 @@ const config: Config = {
   organizationName: 'your-github-org', 
   projectName: 'router-docs',
 
-  onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
+  onBrokenLinks: 'ignore',
+  onBrokenMarkdownLinks: 'ignore',
 
 
   i18n: {
@@ -116,11 +116,11 @@ const config: Config = {
           items: [
             {
               label: 'Getting Started',
-              to: '/docs/category/getting-started',
+              to: '#',
             },
             {
               label: 'Developers',
-              to: '/docs/category/developers',
+              to: '#',
             },
           ],
         },

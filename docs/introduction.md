@@ -42,6 +42,6 @@ PathFinder is an API service that finds the most optimal routes for cross-chain 
 
 ## Get Started
 
-Ready to start building with SuperSol? Check out our [Getting Started](/docs/getting-started/overview) guide to begin your cross-chain journey.
+<!-- Ready to start building with SuperSol? Check out our [Getting Started](/docs/getting-started/overview) guide to begin your cross-chain journey.
 
-For developers looking to integrate with Router, visit our [Developers](/docs/category/developers) section for detailed documentation.
+For developers looking to integrate with Router, visit our [Developers](/docs/category/developers) section for detailed documentation. -->
