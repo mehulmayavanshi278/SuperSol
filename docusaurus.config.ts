@@ -126,7 +126,7 @@ const config: Config = {
             },
             {
               label: 'Developers',
-              to: '#',
+              to: 'docs/developers/Getting-Started',
             },
           ],
         },
@@ -135,11 +135,11 @@ const config: Config = {
           items: [
             {
               label: 'Discord',
-              href: 'https://discord.gg/routerprotocol',
+              href: '#',
             },
             {
               label: 'Twitter',
-              href: 'https://twitter.com/routerprotocol',
+              href: '#',
             },
           ],
         },
@@ -148,7 +148,7 @@ const config: Config = {
           items: [
             {
               label: 'GitHub',
-              href: 'https://github.com/router-protocol',
+              href: '#',
             },
           ],
         },
