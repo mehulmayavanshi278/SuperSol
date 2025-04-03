@@ -40,15 +40,15 @@ export default function Home(): JSX.Element {
       description="Documentation for SuperSol - Cross-Chain Infrastructure">
       <HomepageHeader />
       <main>
-        <div className="container margin-top--xl margin-bottom--xl">
+        <div className="container margin-top--xl margin-bottom--md">
           <div className="row">
             <div className="col col--12">
               <div className={styles.section}>
                 <h2 className={styles.sectionTitle}>Explore SuperSol</h2>
-                <p className={styles.sectionDescription}>
+                {/* <p className={styles.sectionDescription}>
                   Super Sol is a cross-chain infrastructure designed to enable seamless communication 
                   between blockchains. With Router, developers can build truly cross-chain applications.
-                </p>
+                </p> */}
               </div>
             </div>
           </div>
