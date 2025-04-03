@@ -73,32 +73,38 @@ const config: Config = {
           type: 'docSidebar',
           sidebarId: 'introSidebar',
           position: 'left',
-          label: 'Documentation',
+          label: 'Introduction',
         },
         {
           type: 'docSidebar',
-          sidebarId: 'developersSidebar',
+          sidebarId: 'developerSidebar',
           position: 'left',
-          label: 'developers',
+          label: 'Developers',
         },
-        {
-          type: 'docSidebar',
-          sidebarId: 'rpcSidebar',
-          position: 'left',
-          label: 'RPC API',
-        },
-        {
-          type: 'docSidebar',
-          sidebarId: 'resourcesSidebar',
-          position: 'left',
-          label: 'Resource',
-        },
-        {
-          type: 'docSidebar',
-          sidebarId: 'svmBNBSidebar',
-          position: 'left',
-          label: 'svmBNB',
-        },
+        // {
+        //   type: 'docSidebar',
+        //   sidebarId: 'developersSidebar',
+        //   position: 'left',
+        //   label: 'developers',
+        // },
+        // {
+        //   type: 'docSidebar',
+        //   sidebarId: 'rpcSidebar',
+        //   position: 'left',
+        //   label: 'RPC API',
+        // },
+        // {
+        //   type: 'docSidebar',
+        //   sidebarId: 'resourcesSidebar',
+        //   position: 'left',
+        //   label: 'Resource',
+        // },
+        // {
+        //   type: 'docSidebar',
+        //   sidebarId: 'svmBNBSidebar',
+        //   position: 'left',
+        //   label: 'svmBNB',
+        // },
         
 
         // {
