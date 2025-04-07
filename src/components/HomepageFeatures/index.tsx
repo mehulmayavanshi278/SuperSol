@@ -46,12 +46,12 @@ function Feature({title, svg: Svg, description}: FeatureItem) {
     <div className={clsx('col col--4')}>
       <div className={styles.featureCard}>
         <div className={styles.featureIconContainer}>
-          <Svg className={styles.featureIcon} role="img" />
+          {/* <Svg className={styles.featureIcon} role="img" /> */}
         </div>
         <div className="text--center">
-          <h3 className={styles.featureTitle}>{title}</h3>
+          {/* <h3 className={styles.featureTitle}>{title}</h3> */}
         </div>
-        <div className={styles.featureDescription}>{description}</div>
+        {/* <div className={styles.featureDescription}>{description}</div> */}
       </div>
     </div>
   );
