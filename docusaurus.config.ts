@@ -122,7 +122,7 @@ const config: Config = {
           items: [
             {
               label: 'Getting Started',
-              to: '#',
+              to: 'docs/introduction/',
             },
             {
               label: 'Developers',
@@ -135,11 +135,11 @@ const config: Config = {
           items: [
             {
               label: 'Discord',
-              href: '#',
+              href: 'https://discord.gg/8p9Yn9nAWY',
             },
             {
               label: 'Twitter',
-              href: '#',
+              href: 'https://x.com/_supersol',
             },
           ],
         },
